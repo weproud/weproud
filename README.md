@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=We%20Proud&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=weproud&fontSize=40)
   
   ### Software Engineer | Backend Developer
   

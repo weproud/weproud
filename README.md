@@ -1,6 +1,11 @@
-Hi, I'm RII!
+## About Me
 
-### 🛠️ Tech Stack
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weproud)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:betheproud@gmail.com)
+
+Hi, there. I'm a passionate software engineer with a focus on backend development. I specialize in building scalable and robust systems using modern technologies and best practices.
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -33,7 +38,7 @@ Hi, I'm RII!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weproud&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true" width=38% />
@@ -47,16 +52,13 @@ Hi, I'm RII!
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=weproud&theme=cold)
 
-### 🌟 Core Interests
+## 🌟 Core Interests
 
 - Building Scalable Backend Systems
 - System Design & Architecture
 - Performance Optimization
 - DevOps & Cloud Infrastructure
 
-### 📬 Get In Touch
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weproud)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:betheproud@gmail.com)
+## 📬 Get In Touch
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweproud%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=fujitsu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

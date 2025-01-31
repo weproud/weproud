@@ -47,6 +47,8 @@
 </a>
 </div>
 
+<img src="https://github.com/weproud/weproud/blob/output/github-snake-dark.svg" width="100%">
+
 ### 🔍 Core Interests
 
 - Building Scalable Backend Systems

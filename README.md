@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20weproud's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 ### GitHub Stats
 
 ![weproud's GitHub stats](https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient)
@@ -15,6 +19,8 @@
 - System Design & Architecture
 - Performance Optimization
 - DevOps & Cloud Infrastructure
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweproud%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=fujitsu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Get in Touch
 

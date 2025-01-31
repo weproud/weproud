@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,22 +14,18 @@
 </a>
 </div>
 
-<img src="https://github.com/weproud/weproud/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/weproud/weproud/blob/output/github-snake.svg" width="100%" />
 
-### 🔍 Core Interests
+### Core Interests
 
 - Building Scalable Backend Systems
 - System Design & Architecture
 - Performance Optimization
 - DevOps & Cloud Infrastructure
 
-### 📫 Get in Touch
+### Get in Touch
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weproud)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:betheproud@gmail.com)
 
----
-
-<div align="center">
-  <i>Building reliable and scalable systems, one commit at a time.</i>
 </div>

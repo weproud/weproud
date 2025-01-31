@@ -1,7 +1,8 @@
 ### GitHub Stats
 
+![weproud's GitHub stats](https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient)
+
 <div align="left">
- ![weproud's GitHub stats](https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient)
   <img src="https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weproud&theme=ambient_gradient&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>

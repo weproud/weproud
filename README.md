@@ -1,11 +1,11 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weproud&layout=donut&show_icons=true&theme=ambient_gradient" width=38% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weproud&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true" width=38% />
 
-<img src="https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient&hide_border=true" width=56% />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weproud&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weproud&theme=tokyo-night" width=94%/>
 </div>
 
 <img src="https://github.com/weproud/weproud/blob/output/github-snake-dark.svg?color_snake=#FCFE96&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark" width="100%" />

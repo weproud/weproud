@@ -3,7 +3,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weproud)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:betheproud@gmail.com)
 
-Hi, there. I'm a passionate software engineer with a focus on backend development. I specialize in building scalable and robust systems using modern technologies and best practices.
+Hi, there. I'm a passionate software engineer with a focus on backend development. 
+
+I specialize in building scalable and robust systems using modern technologies and best practices.
 
 ## 🛠️ Tech Stack
 

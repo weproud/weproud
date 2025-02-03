@@ -52,13 +52,4 @@ Hi, there. I'm a passionate software engineer with a focus on backend developmen
 
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=weproud&theme=cold) -->
 
-## 🌟 Core Interests
-
-- Building Scalable Backend Systems
-- System Design & Architecture
-- Performance Optimization
-- DevOps & Cloud Infrastructure
-
-## 📬 Get In Touch
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweproud%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=fujitsu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

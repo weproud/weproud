@@ -51,6 +51,8 @@ I look forward to the opportunity to **work** and **grow** with you!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,6 +65,4 @@ I look forward to the opportunity to **work** and **grow** with you!
 
 ![snake gif](https://github.com/weproud/weproud/blob/output/github-snake-dark.svg?color_snake=#FCFE96&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C)
 
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=weproud&theme=cold) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweproud%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=fujitsu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

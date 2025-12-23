@@ -1,6 +1,6 @@
 ## About Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weproud)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/lazylagom)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:betheproud@gmail.com)
 
 I value **simplicity** and **efficiency** and avoid **over-architecting**.  
@@ -56,13 +56,13 @@ I look forward to the opportunity to **work** and **grow** with you!
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weproud&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true" width=38% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazylagom&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true" width=38% />
 
-<img src="https://github-readme-stats.vercel.app/api?username=weproud&show_icons=true&theme=ambient_gradient&hide_border=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=lazylagom&show_icons=true&theme=ambient_gradient&hide_border=true" width=56% />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weproud&theme=react-dark" width=94%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazylagom&theme=react-dark" width=94%/>
 </div>
 
-![snake gif](https://github.com/weproud/weproud/blob/output/github-snake-dark.svg?color_snake=#FCFE96&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C)
+![snake gif](https://github.com/lazylagom/lazylagom/blob/output/github-snake-dark.svg?color_snake=#FCFE96&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C)
 
 
